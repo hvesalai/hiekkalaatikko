@@ -1,3 +1,4 @@
+foo
 new line
 conflicting line
 This is a commit, 4
