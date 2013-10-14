@@ -2,6 +2,7 @@ bar
 foo
 new line
 conflicting line
+second line
 This is a commit, 4
 new line
 
